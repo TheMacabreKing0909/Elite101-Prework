@@ -1,1 +1,6 @@
 print('hello world!!!')
+name=input('Please enter your name.')
+print('Hello,',name)
+age=input('Please enter your age.')
+print('You are',age,'years old.')
+print('How may I assist you today',name,'?')
